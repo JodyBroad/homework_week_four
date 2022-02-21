@@ -6,7 +6,7 @@ print(cheese)
 
 # to add two new cheeses to the list in a single command
 cheese += ['Edam', 'Swiss']
-cheese.extend(['Gorgomzola', 'Brie'])
+cheese.extend(['Gorgonzola', 'Brie'])
 print(cheese)
 
 #Question 2
